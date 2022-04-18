@@ -11,7 +11,7 @@ Including:
 * Kotlin Coroutines
 * Apollo
 
-<img align="center" src="https://github.com/Mralmasli/CountryApp/blob/master/assets/Screenshot_20220419_015554.png" width="600">
+<img align="center" src="https://github.com/Mralmasli/CountryApp/blob/master/assets/Screenshot_20220419_015554.png" width="400">
 
 
 ## - Clean Architecture
