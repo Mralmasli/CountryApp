@@ -1,0 +1,6 @@
+query CountryList{
+    countries{
+        name
+        code
+    }
+}
